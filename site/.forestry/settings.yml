@@ -10,13 +10,18 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: site/content/lectures
-  label: Lectures
+  path: site/content/labs
+  label: Labs
   create: all
   match: "**/*"
 - type: directory
-  path: site/content/labs
-  label: Labs
+  path: site/content/technical
+  label: Applied Digital Forensics
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/professionalism
+  label: Forensics Professionalism
   create: all
   match: "**/*"
 upload_dir: site/static/uploads
