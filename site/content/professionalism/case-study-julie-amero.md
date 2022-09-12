@@ -30,3 +30,9 @@ options = ""
 * The claim didn't contain any documentation or detail
 
 ![](/uploads/snipaste_2022-09-12_19-04-01.png)
+
+* No proof in who did it
+
+![](/uploads/snipaste_2022-09-12_19-06-19.png)
+
+* Limited expertise based from personal experience
