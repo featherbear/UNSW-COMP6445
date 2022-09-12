@@ -19,3 +19,9 @@ options = ""
 
 ...meanwhile   
 ![](/uploads/snipaste_2022-09-12_18-55-47.png)
+
+## Testimonies
+
+### Robert Hartz - Information Systems Manager at the school
+
+![](/uploads/snipaste_2022-09-12_18-57-30.png)
