@@ -44,3 +44,11 @@ options = ""
 ![](/uploads/snipaste_2022-09-12_19-12-39.png)  
 ![](/uploads/snipaste_2022-09-12_19-14-40.png)  
 ![](/uploads/snipaste_2022-09-12_19-17-22.png)
+
+* Scope of the search is limited to what the detective is searching for
+
+![](/uploads/snipaste_2022-09-12_19-23-30.png)
+
+![](/uploads/snipaste_2022-09-12_19-25-32.png)
+
+![](/uploads/snipaste_2022-09-12_19-26-51.png)
