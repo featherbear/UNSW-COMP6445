@@ -13,3 +13,9 @@ options = ""
 
 +++
 ![](/uploads/snipaste_2022-09-12_18-48-39.png)
+
+* "The school has a policy to never shutdown school computers"
+  * Context: Issue with the OS, might not start back up
+
+...meanwhile   
+![](/uploads/snipaste_2022-09-12_18-55-47.png)
