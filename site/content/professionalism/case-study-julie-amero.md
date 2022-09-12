@@ -24,4 +24,9 @@ options = ""
 
 ### Robert Hartz - Information Systems Manager at the school
 
-![](/uploads/snipaste_2022-09-12_18-57-30.png)
+![](/uploads/snipaste_2022-09-12_18-57-30.png)  
+![](/uploads/snipaste_2022-09-12_19-00-11.png)
+
+* The claim didn't contain any documentation or detail
+
+![](/uploads/snipaste_2022-09-12_19-04-01.png)
