@@ -28,4 +28,46 @@ options = ""
 
 ## Secure and Seize
 
-Permission to access
+### Meta
+
+#### Legality
+
+> Make sure your seizure is legal, and that you are authorised to perform the work.
+
+Written permission, warrant, legal undertaking, etc...
+
+#### Securing the Scene
+
+Make sure the site is secure
+
+#### Document Everything!
+
+> 👆
+
+Work journals, chain of custody forms, imaging forms, physical evidence (check-in, check-out), forensic reports
+
+#### Chain of Custody
+
+![](/uploads/snipaste_2022-09-14_02-17-34.jpg)
+
+#### Overt vs Covert?
+
+### First Steps
+
+1. Secure the scene (don't let someone steal your evidence)
+2. Document the scene
+3. Check if the computer system is running
+
+#### Pull The Plug?
+
+![](/uploads/snipaste_2022-09-14_02-12-13.jpg)
+
+### Other Considerations
+
+![](/uploads/snipaste_2022-09-14_02-15-46.jpg)
+
+* If you insert a USB, the system will write data to record the event
+
+### Acquisition
+
+![](/uploads/snipaste_2022-09-14_02-19-36.jpg)
