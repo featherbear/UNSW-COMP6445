@@ -45,6 +45,16 @@ Make sure the site is secure
 
 Work journals, chain of custody forms, imaging forms, physical evidence (check-in, check-out), forensic reports
 
+Device model, serial numbers, disk
+
+Times
+
+Hashes
+
+Physical inspection
+
+Sign-off
+
 #### Chain of Custody
 
 ![](/uploads/snipaste_2022-09-14_02-17-34.jpg)
