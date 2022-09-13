@@ -1,6 +1,5 @@
 +++
 date = 2022-09-12T08:49:49Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Case Study: Julie Amero"
