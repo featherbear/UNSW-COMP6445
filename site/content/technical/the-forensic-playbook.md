@@ -21,3 +21,11 @@ options = ""
 5. Report
 
 ***
+
+## Preparation
+
+![](/uploads/snipaste_2022-09-14_01-53-02.jpg)
+
+## Secure and Seize
+
+Permission to access
