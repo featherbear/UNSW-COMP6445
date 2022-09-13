@@ -28,6 +28,8 @@ options = ""
 
 ## E01 - Encase / Expert Witness Format
 
+> See [https://github.com/libyal/libewf](https://github.com/libyal/libewf "https://github.com/libyal/libewf")
+
 * Integrates hash calculation and case metadata
 * Redundant integrity checks (both block and device level hashing)
 * Can be split into smaller segments
@@ -35,5 +37,7 @@ options = ""
 
 However,
 
-* Harder to make native commands with 
+* Harder to make native commands with
 * Need specialised software or libraries to create the E01
+
+![](/uploads/snipaste_2022-09-14_02-35-01.jpg)

@@ -1,6 +1,5 @@
 +++
 date = 2022-09-13T12:53:37Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "The Forensic Playbook"
