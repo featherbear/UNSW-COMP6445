@@ -1,6 +1,5 @@
 +++
 date = 2022-09-13T16:25:35Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Forensic Image Formats"
