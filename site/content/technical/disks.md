@@ -102,7 +102,3 @@ Hiding techniques
 * Write directly to unpartitioned space
 * Deleted volumes and hidden partitions
 * Hiding data in volume slack
-
-## Complex Structures
-
-## 
