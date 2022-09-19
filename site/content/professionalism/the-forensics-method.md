@@ -36,3 +36,17 @@ options = ""
 * An individual is responsible for all actions taken whilst digital evidence is in their possession?
 
 > **Need to go to the toilet?** You need put things back and document it
+
+***
+
+![](/uploads/snipaste_2022-09-19_18-30-54.jpg)
+
+***
+
+# Pre-seizure
+
+Document the state of the room, i.e how many computers, how many devices, how many devices are on.
+
+## Ethics Investigator
+
+The ethics investigator is responsible for directing which assets and documents are part of the scope. Without explicit consent from the ethics investigator, an item cannot be seized.
