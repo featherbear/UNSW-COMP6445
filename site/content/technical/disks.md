@@ -107,3 +107,19 @@ Hiding techniques
 # What about \[...\]?
 
 ![](/uploads/snipaste_2022-09-19_20-31-32.jpg)
+
+## RAIDS
+
+> RAID - "Redundant Array of Inexpensive Disks"
+
+_'inexpensive' * cough *_
+
+![](/uploads/snipaste_2022-09-19_20-39-21.jpg)
+
+![](/uploads/snipaste_2022-09-19_20-39-21.jpg)
+
+![](/uploads/snipaste_2022-09-19_20-42-06.jpg)
+
+![](/uploads/snipaste_2022-09-19_20-43-01.jpg)
+
+![](/uploads/snipaste_2022-09-19_20-50-05.jpg)
