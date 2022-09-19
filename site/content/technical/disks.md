@@ -108,6 +108,12 @@ Hiding techniques
 
 ![](/uploads/snipaste_2022-09-19_20-31-32.jpg)
 
+## Cloud
+
+It's not just your data that's stored in a data server - privacy issues
+
+![](/uploads/snipaste_2022-09-19_20-52-56.jpg)
+
 ## RAIDS
 
 > RAID - "Redundant Array of Inexpensive Disks"
