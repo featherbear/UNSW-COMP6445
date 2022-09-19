@@ -53,6 +53,8 @@ Document the state of the room, i.e how many computers, how many devices, how ma
 
 ## Ethics Investigator
 
+> **OFTEN INDEPENDENT**
+
 The ethics investigator is responsible for directing which assets and documents are part of the scope. Without explicit consent from the ethics investigator, an item cannot be seized.
 
 ## Conflict
