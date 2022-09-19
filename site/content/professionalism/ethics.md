@@ -26,3 +26,14 @@ options = ""
 * What would happen if everyone made the same decision?
 * What will this do to my reputation / others?
 * Is this consistent with my moral code?
+
+***
+
+![](/uploads/snipaste_2022-09-19_19-06-34.jpg)  
+![](/uploads/snipaste_2022-09-19_19-10-44.jpg)
+
+![](/uploads/snipaste_2022-09-19_19-14-35.jpg)
+
+![](/uploads/snipaste_2022-09-19_19-15-44.jpg)
+
+![](/uploads/snipaste_2022-09-19_19-16-46.jpg)
