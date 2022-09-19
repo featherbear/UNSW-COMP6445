@@ -104,4 +104,6 @@ Hiding techniques
 
 ***
 
-# What about cloud storage?
+# What about \[...\]?
+
+![](/uploads/snipaste_2022-09-19_20-31-32.jpg)
