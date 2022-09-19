@@ -71,6 +71,10 @@ Depending on the type of seizure method, certain parts/items may not be part of 
 For example, if a warrant is regarding the emails in an Outlook desktop client, the system's recycling bin folder (and unallocated) space is not part of the warrant scope.  
 If an entire image of the disk is required, then whilst the recycling bin folder will be included in the image dump - the recycling bin folder cannot be used as part of evidence.
 
+### What if I can't seize everything in time?
+
+> e.g. Hard drive too big to dump everything?
+
 ***
 
 # Work Journals
