@@ -47,6 +47,36 @@ options = ""
 
 Document the state of the room, i.e how many computers, how many devices, how many devices are on.
 
+## Lead Investigator
+
+\-
+
 ## Ethics Investigator
 
 The ethics investigator is responsible for directing which assets and documents are part of the scope. Without explicit consent from the ethics investigator, an item cannot be seized.
+
+## Conflict
+
+What if the lead investigator and ethics investigator have different 'opinions'.  
+Probably don't work on the asset.
+
+***
+
+## Seizure
+
+Depending on the type of seizure method, certain parts/items may not be part of the scope.
+
+For example, if a warrant is regarding the emails in an Outlook desktop client, the system's recycling bin folder (and unallocated) space is not part of the warrant scope.  
+If an entire image of the disk is required, then whilst the recycling bin folder will be included in the image dump - the recycling bin folder cannot be used as part of evidence.
+
+***
+
+# Work Journals
+
+Notes, general observations
+
+***
+
+# Acquisition Sheets
+
+Formal documents (later submitted)
