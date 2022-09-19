@@ -92,6 +92,17 @@ Contains a "_protective MBR_" at `LBA0` to ensure older devices don't wipe the d
 
 Unused space between the end of a filesystem and the end of its partition
 
+***
+
+# Summary
+
+Hiding techniques
+
+* HPAs, DCOs
+* Write directly to unpartitioned space
+* Deleted volumes and hidden partitions
+* Hiding data in volume slack
+
 ## Complex Structures
 
 ## 
