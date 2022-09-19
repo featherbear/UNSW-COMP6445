@@ -1,6 +1,5 @@
 +++
 date = 2022-09-13T12:31:28Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Disks"
@@ -102,3 +101,7 @@ Hiding techniques
 * Write directly to unpartitioned space
 * Deleted volumes and hidden partitions
 * Hiding data in volume slack
+
+***
+
+# What about cloud storage?
