@@ -49,7 +49,7 @@ These tools issue ATA commands to the drive controller, rather than through the 
 * Filesystem - Structure that sit within a volume
 * Clusters - Grouping of sectors
 * Unpartitioned space - free sectors
-  * Free space sectors between volumes is called **_volume slack_**
+  * Free sectors within a volume is called **_volume slack_**
 
 ![](/uploads/snipaste_2022-09-19_19-59-32.jpg)
 
@@ -81,6 +81,16 @@ Contains a "_protective MBR_" at `LBA0` to ensure older devices don't wipe the d
 ![](/uploads/snipaste_2022-09-19_20-08-52.jpg)
 
 ## Unallocated / Slack / Deleted
+
+* We can write data into unallocated areas of the disk, i.e. using a raw disk editor.
+* OS APIs generally don't like writing to 'invalid' spaces on disk.
+* Driver level APIs
+
+![](/uploads/snipaste_2022-09-19_20-13-53.jpg)
+
+### Volume Slack
+
+Unused space between the end of a filesystem and the end of its partition
 
 ## Complex Structures
 
