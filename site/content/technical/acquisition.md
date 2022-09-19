@@ -12,3 +12,8 @@ enable = false
 options = ""
 
 +++
+# Disks
+
+## Physical vs Logical vs LEF
+
+![](/uploads/snipaste_2022-09-19_20-22-49.jpg)
