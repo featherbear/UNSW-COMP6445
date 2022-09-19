@@ -13,3 +13,7 @@ options = ""
 
 +++
 ![](/uploads/snipaste_2022-09-19_18-28-04.jpg)
+
+![](/uploads/snipaste_2022-09-19_18-50-59.jpg)
+
+![](/uploads/snipaste_2022-09-19_18-52-12.jpg)
