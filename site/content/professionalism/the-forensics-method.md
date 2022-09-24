@@ -1,6 +1,5 @@
 +++
 date = 2022-09-19T08:10:01Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "The Forensics Method"

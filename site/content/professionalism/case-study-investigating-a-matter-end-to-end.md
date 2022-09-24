@@ -1,6 +1,5 @@
 +++
 date = 2022-09-19T08:28:08Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Case Study: Investigating a Matter End-to-End"
