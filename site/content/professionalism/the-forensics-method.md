@@ -31,8 +31,9 @@ options = ""
 * Follow all general forensics and procedural principles
   * e.g. Be invited into the case
 * Actions taken to obtain evidence should not change the evidence
+* Access to the original digital evidence should only be permitted by a person trained for purpose.
 * All activity relating to the seizure, access, storage or transfer of evidence must be documented
-* An individual is responsible for all actions taken whilst digital evidence is in their possession?
+* An individual is responsible for all actions taken whilst digital evidence is in their possession
 
 > **Need to go to the toilet?** You need put things back and document it
 
