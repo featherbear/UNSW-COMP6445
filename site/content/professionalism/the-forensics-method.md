@@ -26,7 +26,7 @@ options = ""
 
 ***
 
-## Handling Digital Evidence
+## Principles of Handling Digital Evidence
 
 * Follow all general forensics and procedural principles
   * e.g. Be invited into the case
