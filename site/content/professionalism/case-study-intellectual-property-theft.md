@@ -17,4 +17,6 @@ options = ""
 ![](/uploads/snipaste_2022-09-26_18-19-04.jpg)  
 ![](/uploads/snipaste_2022-09-26_18-38-29.jpg)
 
-* Resigned 28th May 2020, 2PM
+# Investigation
+
+Look through registry, ntuser.dat, link files, shell bags, etc
