@@ -20,4 +20,20 @@ options = ""
 
 ## FAT32
 
+![](/uploads/snipaste_2022-09-26_20-07-24.jpg)
+
+### Boot Record
+
+Always located on the first sector
+
+![](/uploads/snipaste_2022-09-26_20-11-00.jpg)
+
+### File Allocation Table
+
+Two redundant tables
+
+### Directory Entries and Data
+
+***
+
 ## NTFS
