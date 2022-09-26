@@ -15,3 +15,5 @@ options = ""
 ![](/uploads/snipaste_2022-09-26_19-20-18.jpg)
 
 Shell bags contain information pertaining to what files were visible in Windows Explorer
+
+![](/uploads/snipaste_2022-09-26_19-31-42.jpg)
