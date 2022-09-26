@@ -34,6 +34,10 @@ Two redundant tables
 
 ### Directory Entries and Data
 
+![](/uploads/snipaste_2022-09-26_20-12-44.jpg)
+
+![](/uploads/snipaste_2022-09-26_20-15-24.jpg)
+
 ***
 
 ## NTFS
