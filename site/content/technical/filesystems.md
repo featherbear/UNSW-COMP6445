@@ -53,6 +53,8 @@ Two redundant tables
 
 ## NTFS
 
+> See [https://www.youtube.com/watch?v=l4IphrAjzeY](https://www.youtube.com/watch?v=l4IphrAjzeY "https://www.youtube.com/watch?v=l4IphrAjzeY")
+
 ![](/uploads/snipaste_2022-09-26_20-34-37.jpg)  
 ![](/uploads/snipaste_2022-09-26_20-36-08.jpg)  
 ![](/uploads/snipaste_2022-09-26_20-37-35.jpg)
@@ -67,6 +69,8 @@ Notes
 * Files can actually be stored in the MFT itself - and is known as Resident Data
   * The resident data may not be fully zero'd out when it overgrows its size
   * 🔥
+
+![](/uploads/snipaste_2022-09-26_21-23-28.jpg)
 
 ![](/uploads/snipaste_2022-09-26_20-43-49.jpg)
 
