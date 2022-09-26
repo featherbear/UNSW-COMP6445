@@ -32,3 +32,13 @@ options = ""
 * Windows 10 Professional
 * Installed in the C:\\ drive
 * Installed 28th Oct 2016
+
+# Applications
+
+![](/uploads/snipaste_2022-09-26_18-41-27.jpg)
+
+***
+
+![](/uploads/snipaste_2022-09-26_18-45-50.jpg)
+
+***
