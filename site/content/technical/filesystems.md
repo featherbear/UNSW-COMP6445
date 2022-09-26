@@ -52,3 +52,44 @@ Two redundant tables
 ***
 
 ## NTFS
+
+![](/uploads/snipaste_2022-09-26_20-34-37.jpg)  
+![](/uploads/snipaste_2022-09-26_20-36-08.jpg)  
+![](/uploads/snipaste_2022-09-26_20-37-35.jpg)
+
+Key notes
+
+* $BITMAP does not track the next cluster, just the 'in-use' state
+
+![](/uploads/snipaste_2022-09-26_20-40-09.jpg)  
+Notes
+
+* Files can actually be stored in the MFT itself - and is known as Resident Data
+  * The resident data may not be fully zero'd out when it overgrows its size
+  * 🔥
+
+![](/uploads/snipaste_2022-09-26_20-43-49.jpg)
+
+### Alternate Data Streams
+
+![](/uploads/snipaste_2022-09-26_20-49-38.jpg)
+
+### Deleted Files
+
+![](/uploads/snipaste_2022-09-26_20-53-11.jpg)
+
+![](/uploads/snipaste_2022-09-26_20-56-39.jpg)
+
+***
+
+# Slack
+
+![](/uploads/snipaste_2022-09-26_20-59-01.jpg)
+
+Key notes
+
+* If you wipe unallocated space, it may not wipe the slack space that exists within allocated space
+
+## Unallocated Clusters
+
+![](/uploads/snipaste_2022-09-26_21-01-55.jpg)
