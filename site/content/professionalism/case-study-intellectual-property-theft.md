@@ -20,3 +20,5 @@ options = ""
 # Investigation
 
 Look through registry, ntuser.dat, link files, shell bags, etc
+
+![](/uploads/snipaste_2022-09-26_19-36-57.jpg)
