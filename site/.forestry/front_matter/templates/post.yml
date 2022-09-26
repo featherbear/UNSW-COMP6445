@@ -51,6 +51,7 @@ pages:
 - site/content/technical/disks.md
 - site/content/technical/filesystems.md
 - site/content/technical/forensic-image-formats.md
+- site/content/technical/link-files.md
 - site/content/technical/ntuser.dat.md
 - site/content/technical/prefetch.md
 - site/content/technical/registry-analysis.md
