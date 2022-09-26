@@ -30,6 +30,13 @@ Always located on the first sector
 
 ### File Allocation Table
 
+![](/uploads/snipaste_2022-09-26_20-18-25.jpg)
+
+#### Example
+
+![](/uploads/snipaste_2022-09-26_20-19-04.jpg)  
+![](/uploads/snipaste_2022-09-26_20-20-57.jpg)
+
 Two redundant tables
 
 ### Directory Entries and Data
@@ -37,6 +44,10 @@ Two redundant tables
 ![](/uploads/snipaste_2022-09-26_20-12-44.jpg)
 
 ![](/uploads/snipaste_2022-09-26_20-15-24.jpg)
+
+### Deleted Files
+
+![](/uploads/snipaste_2022-09-26_20-22-52.jpg)
 
 ***
 
