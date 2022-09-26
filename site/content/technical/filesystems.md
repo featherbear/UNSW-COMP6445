@@ -12,6 +12,12 @@ enable = false
 options = ""
 
 +++
-## FAT
+> See [Disks](../disks)
+>
+> Also see [COMP3231/file-systems](https://featherbear.cc/UNSW-COMP3231/post/file-systems/)
+
+***
+
+## FAT32
 
 ## NTFS
