@@ -35,6 +35,8 @@ options = ""
 
 ![](/uploads/snipaste_2022-10-10_20-36-21.jpg)
 
+Also look at the BIOS!
+
 # Operating System
 
 ![](/uploads/snipaste_2022-09-26_18-35-13.jpg)
