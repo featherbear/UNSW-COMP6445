@@ -55,6 +55,16 @@ Also look at the BIOS!
 
 ![](/uploads/snipaste_2022-10-10_20-34-37.jpg)
 
+## Accounts
+
+![](/uploads/snipaste_2022-10-10_20-41-34.jpg)  
+![](/uploads/snipaste_2022-10-10_20-42-25.jpg)  
+![](/uploads/snipaste_2022-10-10_20-42-34.jpg)
+
+## Computer Name
+
+![](/uploads/snipaste_2022-10-10_20-39-37.jpg)
+
 # Applications
 
 ![](/uploads/snipaste_2022-09-26_18-41-27.jpg)
