@@ -35,3 +35,6 @@ Then you should not be forming opinions, 'stay in your lane'
     * Appropriate
     * Sole use, should not be used for other matters
     * Information provided was correct, i can't be held liable if it's wrong
+  * Assumptions
+  * Structure of this report
+  * Code of conduct
