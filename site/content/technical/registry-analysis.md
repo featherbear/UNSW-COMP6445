@@ -43,6 +43,12 @@ options = ""
 
 ![](/uploads/snipaste_2022-10-10_20-30-10.jpg)
 
+# Control Sets
+
+![](/uploads/snipaste_2022-10-10_20-32-59.jpg)
+
+![](/uploads/snipaste_2022-10-10_20-34-37.jpg)
+
 # Applications
 
 ![](/uploads/snipaste_2022-09-26_18-41-27.jpg)
