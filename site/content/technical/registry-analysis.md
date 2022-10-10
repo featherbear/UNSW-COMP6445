@@ -47,6 +47,8 @@ options = ""
 
 ![](/uploads/snipaste_2022-10-10_20-32-59.jpg)
 
+> Look at the 
+
 ![](/uploads/snipaste_2022-10-10_20-34-37.jpg)
 
 # Applications
