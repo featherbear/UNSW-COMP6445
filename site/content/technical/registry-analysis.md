@@ -47,7 +47,7 @@ options = ""
 
 ![](/uploads/snipaste_2022-10-10_20-32-59.jpg)
 
-> Look at the 
+> Look at the `HKEY_LOCAL_MACHINE\SYSTEM\Select` key
 
 ![](/uploads/snipaste_2022-10-10_20-34-37.jpg)
 
