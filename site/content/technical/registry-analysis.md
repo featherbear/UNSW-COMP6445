@@ -12,12 +12,20 @@ enable = false
 options = ""
 
 +++
+![](/uploads/snipaste_2022-10-10_20-19-27.jpg)
+
+![](/uploads/snipaste_2022-10-10_20-21-19.jpg)
+
+![](/uploads/snipaste_2022-10-10_20-26-29.jpg)
+
 # What should I analyse?
 
 * Timezone
 * Type of OS
 * Version of OS
 * Topology of drive and volumes
+
+![](/uploads/snipaste_2022-10-10_20-28-24.jpg)
 
 ## Timezone
 
@@ -32,6 +40,8 @@ options = ""
 * Windows 10 Professional
 * Installed in the C:\\ drive
 * Installed 28th Oct 2016
+
+![](/uploads/snipaste_2022-10-10_20-30-10.jpg)
 
 # Applications
 
