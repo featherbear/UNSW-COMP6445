@@ -51,6 +51,7 @@ pages:
 - site/content/professionalism/the-forensics-method.md
 - site/content/technical/acquisition.md
 - site/content/technical/disks.md
+- site/content/technical/filename.md
 - site/content/technical/filesystems.md
 - site/content/technical/forensic-image-formats.md
 - site/content/technical/link-files.md
