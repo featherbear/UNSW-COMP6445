@@ -58,6 +58,7 @@ pages:
 - site/content/technical/ntuser.dat.md
 - site/content/technical/prefetch.md
 - site/content/technical/registry-analysis.md
+- site/content/technical/searching.md
 - site/content/technical/shell-bags.md
 - site/content/technical/the-forensic-playbook.md
 - site/content/technical/the-sleuth-kit-autopsy.md
