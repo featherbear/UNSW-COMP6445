@@ -72,6 +72,8 @@ Notes
 
 ![](/uploads/snipaste_2022-09-26_21-23-28.jpg)
 
+![](/uploads/snipaste_2022-10-24_19-54-02.jpg)
+
 ![](/uploads/snipaste_2022-09-26_20-43-49.jpg)
 
 ### Alternate Data Streams
