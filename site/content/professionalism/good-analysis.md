@@ -12,3 +12,9 @@ enable = false
 options = ""
 
 +++
+![](/uploads/snipaste_2022-10-24_19-23-51.jpg)  
+![](/uploads/snipaste_2022-10-24_19-26-11.jpg)
+
+# File Signatures
+
+![](/uploads/snipaste_2022-10-24_19-26-56.jpg)
