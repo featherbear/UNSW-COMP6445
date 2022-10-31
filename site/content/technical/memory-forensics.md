@@ -63,6 +63,31 @@ Eventually, the code has to reveal itself when it executes in memory. In the cas
 
 ***
 
-# Redline
+# Volatility
 
 ![](/uploads/snipaste_2022-10-31_20-07-20.jpg)
+
+Identify profile with the `imageinfo` plugin  
+![](/uploads/snipaste_2022-10-31_20-09-37.jpg)
+
+![](/uploads/snipaste_2022-10-31_20-13-49.jpg)  
+![](/uploads/snipaste_2022-10-31_20-15-15.jpg)  
+![](/uploads/snipaste_2022-10-31_20-18-41.jpg)
+
+***
+
+# Process Hollowing
+
+![](/uploads/snipaste_2022-10-31_20-20-50.jpg)
+
+***
+
+# Memory Objects
+
+![](/uploads/snipaste_2022-10-31_20-21-49.jpg)
+
+***
+
+![](/uploads/snipaste_2022-10-31_20-22-02.jpg)
+
+![](/uploads/snipaste_2022-10-31_20-22-29.jpg)
