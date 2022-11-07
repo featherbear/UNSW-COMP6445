@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T09:18:51Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "NTUSER.DAT"

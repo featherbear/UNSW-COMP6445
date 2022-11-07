@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T09:22:29Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Link Files"
