@@ -31,3 +31,9 @@ options = ""
 
 Probable - Where it is more likely, approximation based on telco data, doesn't take into account weather, congestion..  
 Possible - Solely based on cell signal strength
+
+![](/uploads/snipaste_2022-11-07_18-53-44.jpg)  
+  
+Right side  
+Green - manually measured - with signal  
+Black - manually measured - no signal
