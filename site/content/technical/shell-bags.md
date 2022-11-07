@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T09:20:32Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Shell Bags"

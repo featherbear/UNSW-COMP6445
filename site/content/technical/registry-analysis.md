@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T08:31:11Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Registry Analysis"

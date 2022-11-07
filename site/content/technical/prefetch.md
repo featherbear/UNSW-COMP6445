@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T09:15:12Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Prefetch"
