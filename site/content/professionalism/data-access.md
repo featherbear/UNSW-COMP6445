@@ -23,5 +23,11 @@ options = ""
 
 ![](/uploads/snipaste_2022-11-07_18-43-39.jpg)
 
-![](/uploads/snipaste_2022-11-07_18-44-21.jpg)  
+![](/uploads/snipaste_2022-11-07_18-44-21.jpg)
+
 ![](/uploads/snipaste_2022-11-07_18-46-52.jpg)
+
+![](/uploads/snipaste_2022-11-07_18-52-12.jpg)
+
+Probable - Where it is more likely, approximation based on telco data, doesn't take into account weather, congestion..  
+Possible - Solely based on cell signal strength
