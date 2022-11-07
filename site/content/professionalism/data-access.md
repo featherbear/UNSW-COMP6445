@@ -37,3 +37,5 @@ Possible - Solely based on cell signal strength
 Right side  
 Green - manually measured - with signal  
 Black - manually measured - no signal
+
+![](/uploads/snipaste_2022-11-07_18-56-13.jpg)
