@@ -17,3 +17,11 @@ options = ""
 ![](/uploads/snipaste_2022-11-07_18-35-10.jpg)
 
 ![](/uploads/snipaste_2022-11-07_18-36-47.jpg)
+
+* Can't access if stored communication
+* Can access if self incrimination, but cannot disclose
+
+![](/uploads/snipaste_2022-11-07_18-43-39.jpg)
+
+![](/uploads/snipaste_2022-11-07_18-44-21.jpg)  
+![](/uploads/snipaste_2022-11-07_18-46-52.jpg)
