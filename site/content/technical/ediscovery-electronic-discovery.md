@@ -1,6 +1,5 @@
 +++
 date = 2022-11-07T08:21:03Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "eDiscovery (Electronic Discovery)"
