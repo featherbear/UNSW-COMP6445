@@ -45,3 +45,29 @@ options = ""
 ![](/uploads/snipaste_2022-11-07_20-41-32.jpg)
 
 ![](/uploads/snipaste_2022-11-07_20-44-12.jpg)
+
+![](/uploads/snipaste_2022-11-07_20-50-12.jpg)
+
+![](/uploads/snipaste_2022-11-07_20-54-37.jpg)
+
+![](/uploads/snipaste_2022-11-07_20-55-11.jpg)
+
+![](/uploads/snipaste_2022-11-07_21-00-05.jpg)
+
+***
+
+![](/uploads/snipaste_2022-11-07_21-04-58.jpg)
+
+# XRY
+
+## Contacts
+
+![](/uploads/snipaste_2022-11-07_21-05-34.jpg)
+
+## SMS
+
+![](/uploads/snipaste_2022-11-07_21-05-54.jpg)
+
+## Web History
+
+![](/uploads/snipaste_2022-11-07_21-08-08.jpg)
