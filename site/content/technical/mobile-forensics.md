@@ -32,3 +32,12 @@ options = ""
 ## Tablets, iPads, "Smart Things"
 
 ![](/uploads/snipaste_2022-11-07_20-20-02.jpg)
+
+***
+
+![](/uploads/snipaste_2022-11-07_20-27-32.jpg)  
+![](/uploads/snipaste_2022-11-07_20-29-39.jpg)
+
+* Also things might get overwritten
+
+![](/uploads/snipaste_2022-11-07_20-32-23.jpg)
