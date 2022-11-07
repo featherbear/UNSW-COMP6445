@@ -1,6 +1,5 @@
 +++
 date = 2022-11-07T07:29:45Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Data Access"

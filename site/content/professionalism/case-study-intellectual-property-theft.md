@@ -1,6 +1,5 @@
 +++
 date = 2022-09-26T08:07:18Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Case Study: Intellectual Property Theft"
