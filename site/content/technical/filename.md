@@ -1,6 +1,5 @@
 +++
 date = 2022-10-24T09:05:44Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "$Filename"

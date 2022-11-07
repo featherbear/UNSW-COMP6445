@@ -1,6 +1,5 @@
 +++
 date = 2022-10-24T09:06:34Z
-draft = true
 hiddenFromHomePage = false
 postMetaInFooter = false
 title = "Anti-forensics"
