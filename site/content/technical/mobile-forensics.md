@@ -13,3 +13,22 @@ options = ""
 
 +++
 # History of Mobile Devices
+
+![](/uploads/snipaste_2022-11-07_20-12-04.jpg)
+
+## Dumb Phones
+
+![](/uploads/snipaste_2022-11-07_20-12-47.jpg)
+
+## Early Model Smartphones
+
+![](/uploads/snipaste_2022-11-07_20-14-28.jpg)
+
+## Current Era Smartphones
+
+![](/uploads/snipaste_2022-11-07_20-16-36.jpg)  
+![](/uploads/snipaste_2022-11-07_20-19-19.jpg)
+
+## Tablets, iPads, "Smart Things"
+
+![](/uploads/snipaste_2022-11-07_20-20-02.jpg)
